@@ -1,2 +1,19 @@
+<<<<<<< HEAD
 mai
 n
+=======
+
+main
+<<<<<<< HEAD
+im adding a content from local repository , in main brnch
+
+
+=======
+some content has added in remote in main branch
+>>>>>>> 4c6f0ed671021c595b6da5b3b51ddd3c6fcf808c
+<<<<<<< HEAD
+456
+=======
+123
+>>>>>>> b4f791f022e5bce4c43a6c34b36f7f6e6df01e0c
+>>>>>>> main

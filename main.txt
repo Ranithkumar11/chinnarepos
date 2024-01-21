@@ -17,4 +17,10 @@ some content has added in remote in main branch
 123
 >>>>>>> b4f791f022e5bce4c43a6c34b36f7f6e6df01e0c
 >>>>>>> main
+<<<<<<< HEAD
+890 has added in filebranch01 from local
+111 file has added in local 
+=======
 890 has added in filebranch01 from local 
+000 adding in remote branch
+>>>>>>> ee1a1f7ebb61cb6f7539c4f7754137caa536f86a
